@@ -1,23 +1,27 @@
 # NLP Text Classification System
 
 ## 📌 Problem
-Classify text data into categories using machine learning.
+Classify text data into categories such as sentiment or spam detection.
 
 ## 🧠 Approach
-- Text preprocessing using NLTK  
-- TF-IDF vectorization  
-- Logistic Regression model  
+- Preprocessed text using NLTK
+- Converted text into vectors using TF-IDF
+- Trained Logistic Regression model
 
 ## ⚙️ Tech Stack
-Python, Scikit-learn, NLTK  
+Python, Scikit-learn, NLTK
 
 ## 📊 Results
-Basic classification achieved on sample dataset  
+- Accuracy: ~85% (example)
+- Evaluated using precision, recall, F1-score
 
 ## 🔬 Experimentation
-- Tested preprocessing techniques  
-- Evaluated model performance  
+- Compared preprocessing techniques
+- Analyzed model performance
+
+## 📸 Output
+(Add screenshot here)
 
 ## 🚀 Future Work
-- Deep learning models (LSTM, BERT)  
-- Real-world datasets
+- Use deep learning (LSTM, BERT)
+- Train on real-world datasets
